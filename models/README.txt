@@ -1,0 +1,1 @@
+Model files are optional. The training script creates synthetic educational XGBoost models only; they are not clinically validated.
